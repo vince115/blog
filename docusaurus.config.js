@@ -10,15 +10,12 @@ const config = {
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
   url: 'https://vince115.github.io',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'vince115', // Usually your GitHub org/user name.
-  projectName: 'vince-115-github-io', // Usually your repo name.
+  projectName: 'vince-115-github-io', 
+  organizationName: 'vince115',
+  deploymentBranch: 'gh-pages', 
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
