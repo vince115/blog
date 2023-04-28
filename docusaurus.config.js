@@ -16,7 +16,6 @@ const config = {
   organizationName: 'vince115',
   deploymentBranch: 'gh-pages', 
   trailingSlash: false,
-
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
@@ -74,7 +73,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/vince115/vince-115-github-io',
+            href: 'https://github.com/vince115/vince115.github.io',
             label: 'GitHub',
             position: 'right',
           },
