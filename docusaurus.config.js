@@ -12,7 +12,7 @@ const config = {
 
   url: 'https://vince115.github.io/blog',
   baseUrl: '/blog',
-  projectName: 'vince-115-github-io', 
+  projectName: 'blog', 
   organizationName: 'vince115',
   deploymentBranch: 'gh-pages', 
   trailingSlash: false,
@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/vince115/vince-115-github-io/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/vince115/blog/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/vince115/vince-115-github-io/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/vince115/blog/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -117,7 +117,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/vince115/vince-115-github-io',
+                href: 'https://github.com/vince115/blog',
               },
             ],
           },
