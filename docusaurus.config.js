@@ -10,7 +10,7 @@ const config = {
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
-  url: 'https://vince115.github.io',
+  url: 'https://vince115.github.io/blog',
   baseUrl: '/blog',
   projectName: 'vince-115-github-io', 
   organizationName: 'vince115',
