@@ -6,12 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'My Blog',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
   url: 'https://vince115.github.io/blog',
-  baseUrl: '/blog',
+  baseUrl: '/blog/',
   projectName: 'blog', 
   organizationName: 'vince115',
   deploymentBranch: 'gh-pages', 
